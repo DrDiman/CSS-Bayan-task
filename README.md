@@ -107,7 +107,7 @@ You should create an accordion with HTML and CSS only.
 10. The cursor when it is hovering over the rows of the accordion is changing **+5**
 11. Only flexible dimensions are used `rem, em, %, vh, vw, fr` and etc... The accordion is responsive **+10**
 12. All blocks/parts of the accordion are in base flow of the dom elements. All elements are not positioned with `top, left, right, bottom`. `float` is not used. The value of `position` is only `static` **+5**
-13. Pseudo-elements are not used (note: pseudo-classes are allowed, note 2: pseudo-elements from FontAwesome are allowed) **+5**
+13. Pseudo-elements are not used (note 1: pseudo-classes are allowed; note 2: pseudo-elements only from FontAwesome are allowed) **+5**
 14. Initially, the first meme should be expanded **+5**
 15. Font size is changed at each device (mobile, tablet, desktop) **+5**
 
