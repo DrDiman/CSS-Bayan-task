@@ -123,4 +123,4 @@ You should create an accordion with HTML and CSS only.
 
 Good luck in creation of your own BAYAN =)
 
-Cross-check form: https://rolling-scopes-school.github.io/checklist/
+Cross-check form: https://rolling-scopes-school.github.io/checklist/ (choose CSS Bayan task)
