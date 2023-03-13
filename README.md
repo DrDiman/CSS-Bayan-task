@@ -121,3 +121,5 @@ You should create an accordion with HTML and CSS only.
 ❗ Feel free to create/find/choose memes by your own, but preferably at least 4 memes.
 
 Good luck in creation of your own BAYAN =)
+
+Cross-check form: https://rolling-scopes-school.github.io/checklist/ (choose CSS Bayan task)
