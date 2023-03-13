@@ -116,7 +116,6 @@ You should create an accordion with HTML and CSS only.
 - Usage of the apfruscated (not human-readable) CSS/HTML **-100500**
 - Cheating, peer copy pasting **-100500**
 
-
 ❗ Sizes of the each block, fonts, content and design are up to developer. Differences can vary significantly. The score do not downgrade for that. The main goal to save positions and behavior of the accordion and the other technical requirements.
 
 ❗ Feel free to create/find/choose memes by your own, but preferably at least 4 memes.
