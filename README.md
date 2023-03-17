@@ -10,7 +10,7 @@ You should create an accordion with HTML and CSS only.
 
 ## Functional requirements:
 1. Center the accordion component on the screen, with equal indents on the left and right;
-2. Implement responsive design with three breakpoints. Accordion is displayed correctly at `mobile 320x568, tablet 820x1180, desktop 1920×1080`.
+2. Implement responsive design. Accordion is displayed correctly at `mobile 320x568, tablet 820x1180, desktop 1920×1080`.
 3. Font size should be changed at each device (mobile, tablet, desktop).
 4. Design is at your discretion, but the layout of an accordion should include a meme image, text, and an icon. The placement of these elements should match the provided above example image.
 5. There should be icon for state of the expanded\collapsed item (you can choose your own icons e.g. from FontAwesome).
@@ -23,7 +23,7 @@ You should create an accordion with HTML and CSS only.
 12. Click on meme makes it selected.
 13. Implement visual effects when the cursor is hovering over the memes, when the mouse is down on a meme (moment of mouse down - for active effect):
     - When the cursor is out of the memes:
-      - icons for state of the expanded/collapsed item must be hided;
+      - icons for state of the expanded/collapsed item must be hided (NB: only for devices that can support hover; for devices with touchpad icons are always visible);
       - text-color of expanded item is different than text-color of collapsed items.
     - When the cursor is hovering over the memes:
         - all icons of all items becomes visible;
