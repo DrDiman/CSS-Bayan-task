@@ -72,7 +72,7 @@ You should create an accordion with HTML and CSS only.
 
 > feat: add basic page layout (Mon, Sep 13, 2021 10:25:24 PM)
 
-6. When the solution is ready - open Pull Request from `gh-pages` branch to `main` branch. Pull Request name should be equal to the task name. [Description of the Pull Request should be accordingly to the guideline](https://docs.rs.school/#/pull-request-review-process?id=%D0%A2%D1%80%D0%B5%D0%B1%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F-%D0%BA-pull-request-pr). Do NOT merge this Pull Request. The link to this Pull Request should be submitted to the cross check form. Pull request should contain full description - what was done and what was skipped.
+6. When the solution is ready - open Pull Request from `gh-pages` branch to `main` branch (if there is no `main` branch on GitHub - restore it with the help of [guide](https://github.com/xaurox/restore-main-branch-guide)). Pull Request name should be equal to the task name. [Description of the Pull Request should be accordingly to the guideline](https://docs.rs.school/#/pull-request-review-process?id=%D0%A2%D1%80%D0%B5%D0%B1%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F-%D0%BA-pull-request-pr). Do NOT merge this Pull Request. The link to this Pull Request should be submitted to the cross check form. Pull request should contain full description - what was done and what was skipped.
 
 ❗ Remember that if cross-checker has any potential questions to your accordion solution - he\she should find all the answers in the pull request description.
 
